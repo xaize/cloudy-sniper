@@ -29,7 +29,7 @@ ctk.set_default_color_theme("blue")
 # === AUTO-UPDATER CONFIGURATION ===
 CURRENT_VERSION = "2.3.1"
 # CHANGE THESE TO YOUR GITHUB REPO
-GITHUB_USER = "your-username"
+GITHUB_USER = "xaize"
 GITHUB_REPO = "cloudy-sniper"
 GITHUB_BRANCH = "main"
 VERSION_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/version.txt"
