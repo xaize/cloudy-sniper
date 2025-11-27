@@ -27,7 +27,7 @@ ctk.set_default_color_theme("blue")
 
 
 # === AUTO-UPDATER CONFIGURATION ===
-CURRENT_VERSION = "2.2.1"
+CURRENT_VERSION = "2.3.1"
 # CHANGE THESE TO YOUR GITHUB REPO
 GITHUB_USER = "your-username"
 GITHUB_REPO = "cloudy-sniper"
@@ -1356,7 +1356,7 @@ class CloudySniper:
         # Logout button
         self.logout_btn = ctk.CTkButton(
             btn_container,
-            text="🚪",
+            text="Log in",
             width=45,
             height=40,
             corner_radius=10,
