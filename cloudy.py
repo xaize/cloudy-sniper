@@ -121,8 +121,8 @@ class CloudyLoginScreen:
     """Beautiful animated login screen with Discord token authentication."""
     
     # === CONFIGURATION - CHANGE THESE VALUES ===
-    REQUIRED_GUILD_ID = 1234567890123456789  # Your Discord Server ID
-    REQUIRED_ROLE_ID = 1234567890123456789   # Required Role ID to access
+    REQUIRED_GUILD_ID = 1436696093726609410  # Your Discord Server ID
+    REQUIRED_ROLE_ID = 1443353853880832031   # Required Role ID to access
     SESSION_DURATION = 3600  # Session duration in seconds (1 hour = 3600)
     # ============================================
     
